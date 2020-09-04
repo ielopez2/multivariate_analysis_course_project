@@ -1,5 +1,5 @@
 # multivariate_analysis_course_project
-This final project explores comparisons of PCA functions with their visualizations, interpretability, and PC regression results, then conclude with comparisons to Factor Analysis loading results and Partial Linear regression results.
+This final project explores comparisons of PCA functions with their visualizations, interpretability, and PC regression results, then conclude with comparisons to Factor Analysis loading results and Partial Linear regression results. This project uses R and R markdown.
 
 Using the “Risk Factors Associated with Low Infant Birth Weight” data set from the MASS package we will make comparisons. between two different Principle Component Analysis (PCA) functions using prcomp and princomp (the function learned in class), including visualization comparisons using the factoextra package. We then will compare their interpretability and their PC regression results. We will also compare the interpretability of the PC functions with Factor Analysis as well as compare loadings and how implementing a varimax rotation affects both PCA and Factor Analysis loadings results.
 
